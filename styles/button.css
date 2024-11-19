@@ -1,0 +1,12 @@
+button{
+    width: 145px;
+    height: 36px;
+    min-width: 54px;
+    background-color: #f8f9fa;
+    border-color: rgba(255, 0, 0, 0);
+    outline-color: transparent;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+}
